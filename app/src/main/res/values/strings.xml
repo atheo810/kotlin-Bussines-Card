@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussines Card</string>
+    <string name="Full_name">Muhammad Patriot Bayu Santosa</string>
+    <string name="job_title">Android Developer Extraordinaire</string>
+    <string name="contact_person">+62xx xxx xxx</string>
+    <string name="social_media">"@patriotsantosa"</string>
+    <string name="emailPerson">"atheos810@gmail.com"</string>
+</resources>
